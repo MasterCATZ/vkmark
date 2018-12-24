@@ -27,7 +27,7 @@ for the KMS backend:
 
 On a recent Debian/Ubuntu system you can get all the dependencies with:
 
- `$ sudo apt install meson libvulkan-dev libglm-dev libassimp-dev libxcb1-dev libxcb-icccm4-dev libwayland-dev libdrm-dev libgbm-dev`
+ `$ sudo apt install meson libvulkan-dev libglm-dev libassimp-dev libxcb1-dev libxcb-icccm4-dev libwayland-dev libdrm-dev libgbm-dev pkg-config`
 
 # Building and installing
 
